@@ -38,6 +38,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>spring21</finalName>
+    <finalName>springCore</finalName>
   </build>
 </project>
